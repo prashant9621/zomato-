@@ -4,6 +4,8 @@
 CASE STUDY
 1-The case study contain of 3 dataset.The analysis is done on the Zomato dataset which includes customer ratings abut 9000+ eatries across all over the world.The other Two data sets are used for data cleaning.
 2-this dataset contains answer of question to decide the location,the price range and service for the eatry startup.
+![Screenshot (12)](https://github.com/prashant9621/zomato-/assets/136049491/d3f0e5c9-7d3a-46cf-86bc-cfe505988c76)
+
 
 
 
