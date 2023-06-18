@@ -21,6 +21,7 @@ The project consist of 3 data set  > Zomato_dataset
 
 
 •	which cities have the most number of cateries?
+![Screenshot (13)](https://github.com/prashant9621/zomato-/assets/136049491/5497d7d3-1f53-496a-a527-8e94344bfc05)
 
 select city,count(*) as 'no of eateries'
 from zomato_dataset
