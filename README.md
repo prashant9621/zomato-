@@ -35,6 +35,8 @@ Solution
 •	The eatery startup should concentrate on opening in cities with less competition.
 
 Q-Which low competition cities have the most eateries with aggregated ratings more then 4?
+![Screenshot (14)](https://github.com/prashant9621/zomato-/assets/136049491/003b8b0b-30c5-47cb-b9f5-b70206531493)
+
 
 select city,
 sum(case when aggregate >=4.0 then 1 else 0 end ) as 'no_of_eateries'
