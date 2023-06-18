@@ -104,6 +104,8 @@ Findings
 •	So,restaurant mainly in allahabad and varansi start online delivery too 
 
 Recomendation
+![Screenshot (17)](https://github.com/prashant9621/zomato-/assets/136049491/0d3001d3-66ed-45ec-a8e7-1d8806014f47)
+
 •	To meet the need for high quality eatries,the eatry startup should focus on opening in low competition cities such as allahabad ,varansi, and ghaziabad.
 •	The eatry startup should open a budget friendly in ghaziabad .the average cost of two should not exceed rs 1000.
 •	The eatry startup should start both table as well as online delivery
